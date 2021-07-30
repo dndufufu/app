@@ -5,5 +5,4 @@ jobs:
     steps:
       - name: My first step
         uses: chunfengfu2021://getting-started
-        run: docker run -dp 3001:3000 getting-started
 
